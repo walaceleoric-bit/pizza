@@ -15,7 +15,6 @@ Com ele é possível controlar:
 
 - pedidos
 - produtos
-- clientes
 - vendas
 - administração do sistema
 
@@ -24,8 +23,7 @@ Tudo através de uma **interface simples, rápida e intuitiva**.
 ---
 
 # 🚀 Funcionalidades
-
-✔ Cadastro de clientes  
+  
 ✔ Cadastro de produtos  
 ✔ Gerenciamento de pedidos  
 ✔ Painel administrativo  
