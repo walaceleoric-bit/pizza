@@ -35,7 +35,7 @@ Tudo através de uma **interface simples, rápida e intuitiva**.
 
 # 🖥️ Demonstração do Sistema
 
-## Página inicial da pizzaria
+## Página-inicial-da-pizzaria
 ![Página Inicial](pizza-inicio.png)
 
 ---
