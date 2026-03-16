@@ -108,14 +108,6 @@ Ele pode ser **licenciado ou alugado para empresas**, sendo ideal para:
 
 ---
 
-# 🔒 Código-fonte
-
-O código-fonte **não está disponível neste repositório**.
-
-Este repositório contém apenas **imagens demonstrativas do sistema**.
-
----
-
 # 📞 Contato
 
 Interessado em utilizar o sistema?
