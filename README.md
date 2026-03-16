@@ -97,19 +97,6 @@ Tudo através de uma **interface simples, rápida e intuitiva**.
 
 ---
 
-# ⚙️ Tecnologias Utilizadas
-
-Este sistema foi desenvolvido utilizando tecnologias modernas para aplicações web:
-
-- ASP.NET
-- C#
-- HTML5
-- CSS3
-- JavaScript
-- SQLite
-
----
-
 # 💼 Uso Comercial
 
 Este sistema é **propriedade privada**.
@@ -137,7 +124,8 @@ Interessado em utilizar o sistema?
 
 Entre em contato:
 
-**Desenvolvedor:** Walace Vieira  
+**Desenvolvedor:** Walace Vieira
+**Whatsapp:** 27 98843-3016
 
 ---
 
